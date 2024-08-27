@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeomOFEntityFramework01", "DeomOFEntityFramework01\DeomOFEntityFramework01.csproj", "{8E04EF41-A766-4CB4-8BF4-3507E865851E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AssignmentEFCore01", "AssignmentEFCore01\AssignmentEFCore01.csproj", "{12413278-62BF-452D-84F1-A30F0C7B8C3A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E04EF41-A766-4CB4-8BF4-3507E865851E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E04EF41-A766-4CB4-8BF4-3507E865851E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E04EF41-A766-4CB4-8BF4-3507E865851E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E04EF41-A766-4CB4-8BF4-3507E865851E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12413278-62BF-452D-84F1-A30F0C7B8C3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12413278-62BF-452D-84F1-A30F0C7B8C3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12413278-62BF-452D-84F1-A30F0C7B8C3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12413278-62BF-452D-84F1-A30F0C7B8C3A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0DAAB556-D837-46A9-83BC-D2C63AAF907B}
+	EndGlobalSection
+EndGlobal
